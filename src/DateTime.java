@@ -1,4 +1,4 @@
-package Hotel;
+package src;
 
     public class DateTime {
         private long milliseconds;

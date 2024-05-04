@@ -1,4 +1,4 @@
-package Hotel;
+package src;
 import java.sql.*;
 import  javax.swing.*;
 import javax.swing.JOptionPane;
